@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+    "module": "commonJS", // module để complie code
+    "target": "es6", // cho biết đích JavaScript nào sẽ được dịch ra
+    "strict": true, // Enable all strict Kiểm tra các cú pháp
+    "rootDir": "./typescript", // thư mục chính code ts
+    "outDir": "./dist", // thư mục chứa các file js đã build
+    // "removeComments": true, // loại bỏ các chú thích trong code
+    }
+    }
